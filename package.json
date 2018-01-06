@@ -1,0 +1,13 @@
+{
+	"name": "appengine_web_app",
+	"version": "1.0.0",
+	"description": "express sample",
+	"author": "iwag",
+	"main": "server.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "^4.16.1"
+	}
+}
